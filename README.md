@@ -4,7 +4,7 @@ A simple and elegant Flutter application that allows users to **generate and sca
 
 ## Live Link: 
 
-
+https://qr-code-app-eta.vercel.app
 
 ## 🚀 Features
 
